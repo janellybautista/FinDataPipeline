@@ -1,0 +1,2 @@
+company,year,month,period,source_file,source_type,service_revenue,sales_revenue,net_income,operating_expenses,total_assets,current_assets,liabilities,retained_earnings
+evergreen_health,2025,03,2025-03,evergreen_health_2025_03.csv,csv,774000,133000,169000,534000,2396000,824000,536000,265000

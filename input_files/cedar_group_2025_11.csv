@@ -1,0 +1,2 @@
+company,year,month,period,source_file,source_type,service_revenue,sales_revenue,net_income,operating_expenses,total_assets,current_assets,liabilities,retained_earnings
+cedar_group,2025,11,2025-11,cedar_group_2025_11.csv,csv,431000,268000,124000,390000,1975000,677000,532000,236000

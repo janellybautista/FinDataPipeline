@@ -1,0 +1,2 @@
+company,year,month,period,source_file,source_type,service_revenue,sales_revenue,net_income,operating_expenses,total_assets,current_assets,liabilities,retained_earnings
+delta_manufacturing,2025,04,2025-04,delta_manufacturing_2025_04.csv,csv,150000,789000,112000,640000,2703000,841000,733000,253000

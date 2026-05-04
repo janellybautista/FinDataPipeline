@@ -1,0 +1,2 @@
+company,year,month,period,source_file,source_type,service_revenue,sales_revenue,net_income,operating_expenses,total_assets,current_assets,liabilities,retained_earnings
+aurora_retail,2025,10,2025-10,aurora_retail_2025_10.csv,csv,171000,467000,95000,396000,1670000,564000,478000,188000

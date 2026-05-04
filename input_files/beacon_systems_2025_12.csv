@@ -1,0 +1,2 @@
+company,year,month,period,source_file,source_type,service_revenue,sales_revenue,net_income,operating_expenses,total_assets,current_assets,liabilities,retained_earnings
+beacon_systems,2025,12,2025-12,beacon_systems_2025_12.csv,csv,678000,204000,176000,496000,2416000,739000,611000,317000
